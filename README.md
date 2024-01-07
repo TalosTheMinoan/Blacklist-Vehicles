@@ -11,6 +11,10 @@ This script allows you to check for and delete blacklisted vehicles in your Five
 - Customizable notification settings.
 - Optional visual effects when a blacklisted vehicle is found and deleted.(getting fixed)
 
+## Preview
+
+`https://streamable.com/52l8js`
+
 ## Installation
 
 1. Download the script.
