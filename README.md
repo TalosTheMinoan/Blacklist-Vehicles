@@ -30,7 +30,7 @@ This script allows you to check for and delete blacklisted vehicles in your Five
 Modify the `config.lua` file to customize the script behavior.
 
 ## How to use
-1. Install the script and in the chat press /checkforblacklistedvehicles or in the F8 the same but without the /
+1. Install the script and in the chat press /checkblacklistedcar or in the F8 the same but without the /
 
 
 ## Licence
