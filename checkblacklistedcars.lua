@@ -21,7 +21,7 @@ function CheckBlacklistedVehicles()
 
             for _, blacklistedVehicle in ipairs(blacklistedVehicles) do
                 if string.lower(vehicleName) == string.lower(blacklistedVehicle) then
-                    -- Add visual effects (e.g., smoke or explosion)
+                    
                     TriggerEvent('esx_blacklist:visualEffect', vehicle)
 
                     -- Add logic to delete the blacklisted vehicle
@@ -42,8 +42,7 @@ end
 
 RegisterNetEvent('esx_blacklist:visualEffect')
 AddEventHandler('esx_blacklist:visualEffect', function(vehicle)
-    -- Add your visual effects logic here (e.g., smoke or explosion)
-    -- This is just a placeholder; replace it with your desired visual effects
+    
     RequestNamedPtfxAsset("core")
     while not HasNamedPtfxAssetLoaded("core") do
         Wait(500)
