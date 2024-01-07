@@ -13,7 +13,7 @@ This script allows you to check for and delete blacklisted vehicles in your Five
 
 ## Preview
 
-`https://streamable.com/52l8js`
+- https://streamable.com/52l8js
 
 ## Installation
 
