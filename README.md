@@ -11,7 +11,7 @@ This script allows you to check for and delete blacklisted vehicles in your Five
 - Customizable notification settings.
 - Optional visual effects when a blacklisted vehicle is found and deleted.(getting fixed)
 
-### Preview
+## Preview
 
 - https://streamable.com/52l8js
 
@@ -33,6 +33,10 @@ This script allows you to check for and delete blacklisted vehicles in your Five
 
 Modify the `config.lua` file to customize the script behavior.
 
+### Blacklisted Vehicles
+
+Add or remove vehicle names from the `Config.BlacklistedVehicles` array.
+
 ## How to use
 1. Install the script and in the chat press /checkblacklistedcar or in the F8 the same but without the /
 
@@ -40,8 +44,6 @@ Modify the `config.lua` file to customize the script behavior.
 ## Licence
 1.You can reupload it BUT! Credit me please!
 
-### Blacklisted Vehicles
 
-Add or remove vehicle names from the `Config.BlacklistedVehicles` array.
 
 
