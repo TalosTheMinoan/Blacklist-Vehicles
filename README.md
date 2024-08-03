@@ -1,5 +1,8 @@
 # CheckBlacklistedCars Script
 
+
+**THIS IS AN OLD VERSION FOR A BETTER EXPERIENCE USE 0.2**
+
 ## Overview
 
 This script allows you to check for and delete blacklisted vehicles in your FiveM server.
